@@ -1,4 +1,4 @@
-# Adidas-sales
+# Adidas US Interactive Sales 
 # Tools Used:
 - Power Query for import and data cleaning 
 - Pviot Tables.
