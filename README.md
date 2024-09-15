@@ -8,3 +8,5 @@
 - sales by region
 - sales by retailers
 - best sales method
+# Dashboard:
+![Dashboard](https://github.com/user-attachments/assets/0c32daef-d725-4db6-9957-a59041250a38)
