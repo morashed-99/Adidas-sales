@@ -1,7 +1,7 @@
 # Adidas US Interactive Sales 
 # Tools Used:
 - ETL - Power Query 
-- Pviot Tables.
+- Pviot Tables and Pviot Charts
 - Slicers with connection of all charts to be dynamic.
 # Key features:
 - sales by time period.
