@@ -1,6 +1,6 @@
 # Adidas US Interactive Sales 
 # Tools Used:
-- Power Query for import and data cleaning 
+- ETL - Power Query 
 - Pviot Tables.
 - Slicers with connection of all charts to be dynamic.
 # Key features:
